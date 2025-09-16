@@ -24,13 +24,7 @@ In FinFlow, the MCP server hosts several tools related to financial services and
 
 ---
 
-## Architecture Diagram
 
-Below is the architecture diagram of the **FinFlow MCP Server**:
-
-![MCP Server Architecture](./mcp-server-architecture.png)
-
----
 
 ## Tools
 
